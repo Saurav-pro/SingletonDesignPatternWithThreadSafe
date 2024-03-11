@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPatternWithThreadSafe", "SingletonDesignPatternWithThreadSafe\SingletonDesignPatternWithThreadSafe.csproj", "{F539DFB5-10FA-45BB-834C-133C42C29726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F539DFB5-10FA-45BB-834C-133C42C29726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F539DFB5-10FA-45BB-834C-133C42C29726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F539DFB5-10FA-45BB-834C-133C42C29726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F539DFB5-10FA-45BB-834C-133C42C29726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2D405D-33C4-40E5-B3FE-CA1615E6D1EA}
+	EndGlobalSection
+EndGlobal
