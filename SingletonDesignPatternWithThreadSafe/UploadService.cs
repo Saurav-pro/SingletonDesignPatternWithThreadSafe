@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SingletonDesignPatternWithThreadSafe
 {
-    public class UploadService
+    sealed class UploadService
     {
         private UploadService(){}
 
